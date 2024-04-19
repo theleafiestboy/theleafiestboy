@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://theleafiestboy.github.io/al-folio/sitemap.xml
+Sitemap: https://theleafiestboy.github.io/sitemap.xml
